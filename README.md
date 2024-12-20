@@ -37,7 +37,7 @@ This project analyzes pizza sales data using Power BI to uncover key insights an
 ## 🖼️ **Dashboard Screenshots**
 
 ### 📊 **Overview of the Dashboard**
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](https://github.com/AnithaArunasalam/Pizza-Sales-Analysis-/blob/main/Screenshot%20(74).png)
 
 ### 🥇 **Best-Selling Pizzas**
 ![Best Sellers](images/best_sellers.png)
