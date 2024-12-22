@@ -28,17 +28,12 @@ This project analyzes pizza sales data using Power BI to uncover key insights an
 - **Power BI Desktop** – For data visualization and analysis.  
 - **CSV Data** – Sales data source.
 
-## 📂 **Project Files**
-
-- `PizzaSalesReport.pbix` – The Power BI report file.  
-- `data/pizza_sales_data.csv` – Sample data used for the analysis.  
-- `images/` – Screenshots of the dashboard and visualizations.
-
 ## 🖼️ **Dashboard Screenshots**
 (https://github.com/AnithaArunasalam/Pizza-Sales-Analysis-/blob/main/Screenshot%20(74).png).
+(https://github.com/AnithaArunasalam/Pizza-Sales-Analysis-/blob/main/Screenshot%20(75).png)
+
 ### 📊 **Overview of the Dashboard**
 ![Dashboard Overview](https://github.com/AnithaArunasalam/Pizza-Sales-Analysis-/blob/main/Screenshot%20(75).png)
-[Dashboard Overview](https://github.com/AnithaArunasalam/Pizza-Sales-Analysis-/blob/main/Screenshot%20(74).png).
 
 
 
